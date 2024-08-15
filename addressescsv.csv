@@ -1558,6 +1558,7 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 155.248.163.133,2095,2095,false,NRT,Asia Pacific,Tokyo,72,2.19
 132.145.112.247,8443,8443,true,NRT,Asia Pacific,Tokyo,140,2.19
 141.147.162.204,8443,8443,true,NRT,Asia Pacific,Tokyo,71,2.18
+8.7.198.46,80,80,false,North America,Newark,169,2.18
 152.70.59.56,443,443,true,EWR,North America,Newark,169,2.18
 151.145.70.28,2087,2087,true,NRT,Asia Pacific,Tokyo,147,2.18
 158.101.92.156,2052,2052,false,NRT,Asia Pacific,Tokyo,83,2.16
